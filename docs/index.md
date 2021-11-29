@@ -25,4 +25,7 @@ except Exception as e:
     print("Built-In Python error info: ")
     print(e, e.__doc__, type(e), sep='\n')
 ```
+#### Listing 13
 
+![Results of Listing 13] (https://github.com/GermanGornalusse/ITFnd100-Mod07/blob/main/docs/error.JPG)
+#### Figure 13. The results of listing 13
